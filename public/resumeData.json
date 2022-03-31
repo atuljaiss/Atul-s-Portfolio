@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Atul Kumar",
+    "occupation": "Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Atul , I am curretly persuing my BE from Dayananda Sagar Academy Of Technology and Management, Bangalore. I have great interest in Web Development. Apart from this i love to watch anime.",
+    "contactmessage": "Get in touch with",
+    "email": "atuljaiss12345@gmail.com",
+    "phone": "+91 9065273501",
+    "address": {
+      "street": "Kananpura main road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560082" 
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1KukpgydQjJN5Uch5HldduU5v7Tf7XOPJ/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/darshanraaz.raaz/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/atuljaiss/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/atul_jaiss/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/atuljaiss",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dayananda Sagar Academy of technology and Management",
+        "degree": "Bachelor's Degree, Informarion Science",
+        "graduated": "3rd year",
+        "description": " ** Aggregate Score of 9.3  **  "
+      }
+    ],
+    "work": [
+      {
+        "company": "Rabtul Pvt. Ltd.",
+        "title":"Web Development intern",
+        "years" : "08/2021 - 10/2021",
+        "description":"Worked as FrontEnd Developer and develop various responsive Webpages for Real Time Media House."
+      },
+      {
+        "company": "The Sparks Foundation",
+        "title":"Web Development intern",
+        "years" : "07/2021 - 08/2021",
+        "description":"Build a Basic Banking System."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Node",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name":"C",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {  
+        "title": "LinkedIn Clone",
+        "category": "",
+        "image": "Linkedin-Logo.jpg",
+        "url": "https://linkedin-clone-9df07.web.app/"
+      },
+      {  
+        "title": "Weather App",
+        "category": "",
+        "image": "weather.png",
+        "url": "https://atuljaiss-weather-app.herokuapp.com/"
+      },
+      {  
+        "title": "Todo App",
+        "category": "",
+        "image": "Todo.png",
+        "url": "https://aj-todo-app.herokuapp.com/"
+      },
+      {
+        "title": "Quiz on a the trending TV series known as F.R.I.E.N.D.S",
+        "category": "",
+        "image": "friends.gif",
+        "url": "https://repl.it/@atuljaiss/FRIENDS-QUIZ?embed=1&output=0#index.js"
+      }
+    ]
+  }
+}
